@@ -65,7 +65,7 @@
   ],
   "dependencies": {
     "@clickhouse/client": "^1.0.2",
-    "@fontsource/inter": "^4.5.15",
+    "@fontsource/inter": "^5.0.19",
     "@prisma/client": "5.14.0",
     "@prisma/extension-read-replicas": "^0.3.0",
     "@react-spring/web": "^9.7.3",
