@@ -155,7 +155,7 @@
     "lint-staged": "^14.0.1",
     "postcss": "^8.4.31",
     "postcss-flexbugs-fixes": "^5.0.2",
-    "postcss-import": "^15.1.0",
+    "postcss-import": "^16.1.0",
     "postcss-preset-env": "7.8.3",
     "postcss-rtlcss": "^4.0.1",
     "prettier": "^2.6.2",
